@@ -1,4 +1,4 @@
-# Perfect-World-farming-clicker
+# Perfect-World-farming-clicker / script / bot 
 Very simple farming clicker / script / bot for Perfect World game. Was used for 1.3.6. game version on non-official servers.
 
 Script sends pet to attack mobs, runs in melee range, deals damage using basic skill, picks up loot and heals the pet.
