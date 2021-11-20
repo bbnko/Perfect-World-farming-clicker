@@ -2,7 +2,7 @@
 Farming clicker for Perfect World game
 
 Script sends pet to attack mobs, runs in melee range, deals damage using basic skill, picks up loot and heals the pet.
-Also comes back to a stated position.
+Also comes back to a stated position & uses utility skills / feeds pet / swaps veapons.
 
 Requirements: make sure to keybind (in-game):
 
